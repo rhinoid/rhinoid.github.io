@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Reinier van Vliet - portfolio</title>
-    <link>https:/rhinoid.github.io/posts/</link>
+    <link>https://rhinoid.github.io/posts/</link>
     <description>Recent content in Posts on Reinier van Vliet - portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Oct 2018 15:25:55 +0200</lastBuildDate><atom:link href="https:/rhinoid.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Oct 2018 15:25:55 +0200</lastBuildDate><atom:link href="https://rhinoid.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>my first post</title>
-      <link>https:/rhinoid.github.io/posts/my-first-post/</link>
+      <link>https://rhinoid.github.io/posts/my-first-post/</link>
       <pubDate>Sun, 07 Oct 2018 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/posts/my-first-post/</guid>
+      <guid>https://rhinoid.github.io/posts/my-first-post/</guid>
       <description>Hi
 this is my first post
 geen idee wat ik nu moet doen</description>

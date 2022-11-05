@@ -2,229 +2,229 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nostalgia on Reinier van Vliet - portfolio</title>
-    <link>https:/rhinoid.github.io/nostalgia/</link>
+    <link>https://rhinoid.github.io/nostalgia/</link>
     <description>Recent content in Nostalgia on Reinier van Vliet - portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 2007 15:25:55 +0200</lastBuildDate><atom:link href="https:/rhinoid.github.io/nostalgia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Jan 2007 15:25:55 +0200</lastBuildDate><atom:link href="https://rhinoid.github.io/nostalgia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2007 - Yogames (J2ME/PocketPC/Mobile)</title>
-      <link>https:/rhinoid.github.io/nostalgia/yogames/</link>
+      <link>https://rhinoid.github.io/nostalgia/yogames/</link>
       <pubDate>Mon, 01 Jan 2007 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/yogames/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/yogames/</guid>
       <description>Yogames was a small startup idea where I&amp;rsquo;d make tons of free simple games which would have ads in them for monetization. Until that time games could usually only be be bought in online portals from the big mobile phone networks.</description>
     </item>
     
     <item>
       <title>2005 - Adidas (J2me/Mobile/Ad)</title>
-      <link>https:/rhinoid.github.io/nostalgia/adidas/</link>
+      <link>https://rhinoid.github.io/nostalgia/adidas/</link>
       <pubDate>Sat, 01 Jan 2005 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/adidas/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/adidas/</guid>
       <description>While working at Overloaded (a mobile games company) together with Ferry Spiering I programmed the Adidas Advergame for j2me devices (Nokia, SonyEricsson, Samsung, Siemens, etc). The gameplay was based on an advertisement which was airing around that time of a guy running through the night.
 Graphics were made by Edouard Albert, Dan Parks &amp;amp; Matthew Groen</description>
     </item>
     
     <item>
       <title>2005 - Dan Parks decathlon (J2me/Mobile)</title>
-      <link>https:/rhinoid.github.io/nostalgia/danparks/</link>
+      <link>https://rhinoid.github.io/nostalgia/danparks/</link>
       <pubDate>Sat, 01 Jan 2005 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/danparks/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/danparks/</guid>
       <description>While working at Overloaded (a mobile games company) I programmed 180 Dan Parks Decathlon for j2me devices (Nokia, SonyEricsson, Samsung, Siemens, etc). Dan Parks is not a known athlete, one might even argue not even an athlete. He was the art director at Overloaded at the time, and his name sounded &amp;lsquo;believable&amp;rsquo; enough as athlete. This way we didn&amp;rsquo;t have to get some fancy expensive license. The entire game was smaller than 64kb for the least capable phones.</description>
     </item>
     
     <item>
       <title>2004 - Yin Hung (Symbian/Mobile)</title>
-      <link>https:/rhinoid.github.io/nostalgia/yinhung/</link>
+      <link>https://rhinoid.github.io/nostalgia/yinhung/</link>
       <pubDate>Thu, 01 Jan 2004 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/yinhung/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/yinhung/</guid>
       <description>While working at Overloaded (a mobile games company) I created Yin Hung for Symbian devices (Nokia, SonyEricsson, etc). Yin Hung was a bit more ambitious than the previous games. The game had a mini physics engine which modelled the ponytail from Yin hung. When walking a jumping the tail would follow the character around (like ponytails tend to do), but you could also use the tail to swing on branches, and free the captured spirits.</description>
     </item>
     
     <item>
       <title>2003 - Breakthru (Symbian/Mobile)</title>
-      <link>https:/rhinoid.github.io/nostalgia/breakthru/</link>
+      <link>https://rhinoid.github.io/nostalgia/breakthru/</link>
       <pubDate>Fri, 01 Aug 2003 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/breakthru/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/breakthru/</guid>
       <description>While working at Overloaded (a mobile games company) I created breakthru for Symbian devices (Nokia, SonyEricsson, etc). What is it with me and Arkanoid/Breakout type games?</description>
     </item>
     
     <item>
       <title>2003 - Syntrax (PocketPC/Symbian/Mobile)</title>
-      <link>https:/rhinoid.github.io/nostalgia/syntrax/</link>
+      <link>https://rhinoid.github.io/nostalgia/syntrax/</link>
       <pubDate>Sun, 01 Jun 2003 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/syntrax/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/syntrax/</guid>
       <description>When seeing the PocketPC, my imagination ran wild. Who cool would it be if you could make your own music while commuting in the train? Tahts when I thought I needed to compile Jaytrax for the PocketPC, and just change the UI. Syntrax featured sound synthesis, a sequencer, a sampler all while being severly constraint by the hardware. Even though the PocketPC had an Arm processor, it didn&amp;rsquo;t have good floating point support and the clockspeed was very low.</description>
     </item>
     
     <item>
       <title>2003 - 180 darts (Symbian/Mobile)</title>
-      <link>https:/rhinoid.github.io/nostalgia/180darts/</link>
+      <link>https://rhinoid.github.io/nostalgia/180darts/</link>
       <pubDate>Wed, 01 Jan 2003 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/180darts/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/180darts/</guid>
       <description>While working at Overloaded (a mobile games company) I created 180 darts for Symbian devices (Nokia, SonyEricsson, etc). The game featured 2 player mode via bluetooth. It also used an oldskool pixelzoomer effect to follow the dart while it went into the board. (Phones didn&amp;rsquo;t have OpenGL or hardware graphis support yet)</description>
     </item>
     
     <item>
       <title>2002 - Black belt challenge (Gameboy Advance)</title>
-      <link>https:/rhinoid.github.io/nostalgia/blackbelt/</link>
+      <link>https://rhinoid.github.io/nostalgia/blackbelt/</link>
       <pubDate>Fri, 18 Oct 2002 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/blackbelt/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/blackbelt/</guid>
       <description>Somewhere around 2001 I got a job at Formula, a games department under the Lost Boys flag. They had already produced a few titles and were currently working on Black belt challenge, a fight game for the Gameboy Advance. I worked together with Mathijs de jonge (game designer), Ferry Spiering (coder), Dennis Zopfi (game designer/artist), joris de man (musician), Casper van de Heijden (coder), Michel van Elk (coder) and Arjen Bokhoven (artist).</description>
     </item>
     
     <item>
       <title>2002 - Invader (Gameboy Advance)</title>
-      <link>https:/rhinoid.github.io/nostalgia/invader/</link>
+      <link>https://rhinoid.github.io/nostalgia/invader/</link>
       <pubDate>Tue, 27 Aug 2002 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/invader/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/invader/</guid>
       <description>Somewhere around 2001 I got a job at Formula, a games department under the Lost Boys flag. They had already produced a few titles and were currently working on Invader, a shoot &amp;rsquo;m up for the Gameboy Advance. I worked together with Mathijs de jonge (game designer), Ferry Spiering (coder), Dennis Zopfi (game designer/artist), joris de man (musician), Casper van de Heijden (coder), Michel van Elk (coder) and Arjen Bokhoven (artist).</description>
     </item>
     
     <item>
       <title>2000 - Jaytrax (PC)</title>
-      <link>https:/rhinoid.github.io/nostalgia/jaytrax/</link>
+      <link>https://rhinoid.github.io/nostalgia/jaytrax/</link>
       <pubDate>Sat, 01 Jan 2000 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/jaytrax/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/jaytrax/</guid>
       <description>In my own time I &amp;rsquo;re-imagined&amp;rsquo; my Amiga music program Mugician, for the PC. The PC had much more processor power so in theory a lot more could be possible. Jaytrax had 16 channels of audio, a new synth engine (loosely based on Mugician), and new demo songs to show off the possibilities. The app never really went anywhere until I converted it to the PocketPC and Mobile phones. (See the section about &amp;lsquo;Syntrax&amp;rsquo;).</description>
     </item>
     
     <item>
       <title>1999 - Tesa powergame (PC/Ad)</title>
-      <link>https:/rhinoid.github.io/nostalgia/tesapowergame/</link>
+      <link>https://rhinoid.github.io/nostalgia/tesapowergame/</link>
       <pubDate>Fri, 01 Jan 1999 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/tesapowergame/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/tesapowergame/</guid>
       <description>As a follow-up to the Brand game one year earlier, this game was also a promo / ad game, and was available for everyone who bought a Tesa sticky tape pack. The game involved a person who had to (after he just learned his parents were coming home early) clean up the house and hang everything on the correct spot again. Again very simple game and minimal time/budget.
 No screenshots (yet).</description>
     </item>
     
     <item>
       <title>1998 - Brand slakkenrace (PC/Ad)</title>
-      <link>https:/rhinoid.github.io/nostalgia/slakkenrace/</link>
+      <link>https://rhinoid.github.io/nostalgia/slakkenrace/</link>
       <pubDate>Thu, 01 Jan 1998 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/slakkenrace/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/slakkenrace/</guid>
       <description>When I was working for a small company called Jaytown, a big Beer company asked us to come up with a game to celebrate their new ad campaign which involved snails. The budget was very low, and we had a lot of time constraints. In any case we came up with a silly game called &amp;lsquo;Brand slakkenrace&amp;rsquo; where you battle between 2 snails to who is the slowest. You have weapons, but they are only meant to speed the other up (instead of slow down).</description>
     </item>
     
     <item>
       <title>1997 - Moon Child (PC)</title>
-      <link>https:/rhinoid.github.io/nostalgia/moonchild/</link>
+      <link>https://rhinoid.github.io/nostalgia/moonchild/</link>
       <pubDate>Wed, 01 Jan 1997 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/moonchild/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/moonchild/</guid>
       <description>Moon Child is the 3rd game which i made with the same friends as Hoi and Clockwiser: Ramon Braumuller did all the music and sound-fx, Metin Seven was responsible for all the graphics, and I glued everything together with code. In contrast to everything we did before, this game was made on the PC. Also different than before, we didn&amp;rsquo;t do everything in Assembly, but this time in C++. When we started the game was still targetting DirectX 3.</description>
     </item>
     
     <item>
       <title>1994 - Clockwiser (Amiga)</title>
-      <link>https:/rhinoid.github.io/nostalgia/clockwiser/</link>
+      <link>https://rhinoid.github.io/nostalgia/clockwiser/</link>
       <pubDate>Sat, 01 Jan 1994 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/clockwiser/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/clockwiser/</guid>
       <description>Clockwiser is another Amiga game which I made together with the same 2 friends as our game Hoi. Ramon Braumuller did all the music and sound-fx, Metin Seven was responsible for all the graphics, and I glued everything together with code. Most fot eh levels were made by me. The original design was loosely based on an idea from my father, on which I expanded. Like all other stuff I did on the Amiga, this game too game was entirely made in 68000 assembly.</description>
     </item>
     
     <item>
       <title>1994 - Hoi saga III demo (Amiga)</title>
-      <link>https:/rhinoid.github.io/nostalgia/hoisagaiii/</link>
+      <link>https://rhinoid.github.io/nostalgia/hoisagaiii/</link>
       <pubDate>Sat, 01 Jan 1994 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/hoisagaiii/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/hoisagaiii/</guid>
       <description>The Hoi Saga III demo was created in Denmark on a copyparty. The people who could code from our team all made a part and we assembled it all together. My part(s) were the wolfenstein labyrinth and the rotation effect. The Wolfenstein effect doesn&amp;rsquo;t look very impressive now in retrospect, but remember that the hardware was really bad at that moment. We had bitplanes instead of &amp;lsquo;chunky&amp;rsquo; videomodes (1 byte per pixel), we only had 14 mhz (2.</description>
     </item>
     
     <item>
       <title>1993 - Mindwarp demo (Amiga)</title>
-      <link>https:/rhinoid.github.io/nostalgia/mindwarp/</link>
+      <link>https://rhinoid.github.io/nostalgia/mindwarp/</link>
       <pubDate>Tue, 01 Jun 1993 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/mindwarp/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/mindwarp/</guid>
       <description>Probably still high of creating the previous demo, 3 months later we released yet another AGA demo. This was called Mindwarp and had some other effects we wanted to show off. I can remember trying to get the bounce of the balls on the music just right which took quite some time. Especially since the ground could curve, it looked very odd in the first few iterations.
 Like the previous demo, I coded all the effects (and like always all in assembly), music was done by Ramon Braumuller and all graphics were made by Metin seven</description>
     </item>
     
     <item>
       <title>1993 - Planet groove demo (Amiga)</title>
-      <link>https:/rhinoid.github.io/nostalgia/planetgroove/</link>
+      <link>https://rhinoid.github.io/nostalgia/planetgroove/</link>
       <pubDate>Mon, 01 Mar 1993 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/planetgroove/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/planetgroove/</guid>
       <description>The planet groove demo was made to show the potential of the new AGA chipset which was released month prior in the Amiga 4000 and Amiga 1200. No one still had any documentation on how the hardware worked. By methodically going through all the various hardware registers I was able to figure out how to trigger the special new video modes. With that knowledge we released a text file on the BBS with everything we found out.</description>
     </item>
     
     <item>
       <title>1992 - Peanut butter power game (TV/Ad)</title>
-      <link>https:/rhinoid.github.io/nostalgia/peanutbutterpowergame/</link>
+      <link>https://rhinoid.github.io/nostalgia/peanutbutterpowergame/</link>
       <pubDate>Wed, 01 Jan 1992 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/peanutbutterpowergame/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/peanutbutterpowergame/</guid>
       <description>In 1992 my friends Metin Seven(Graphics artist) and Ramon Braumuller (Musician) and I were asked to make a game for a TV advertisement for Calve Pindakaas (A big dutch peanut butter brand). In the Ad a kid gets sucked into a television where the game is playing. He there has to dodge enemies and find the hidden peanut butter. At the end when a big phantom makes a dramatic entrance, he is resqued by his girlfriend who was watching everything outside of the TV.</description>
     </item>
     
     <item>
       <title>1991 - Hoi (Amiga)</title>
-      <link>https:/rhinoid.github.io/nostalgia/hoi/</link>
+      <link>https://rhinoid.github.io/nostalgia/hoi/</link>
       <pubDate>Tue, 01 Jan 1991 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/hoi/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/hoi/</guid>
       <description>Hoi is an Amiga game which I made together with 2 friends. Ramon Braumuller did all the music and sound-fx, Metin Seven was responsible for all the graphics, and I glued everything together with code. The game was entirely made in 68000 assembly (which was the only route to go to get a decent framerate back then). We didn&amp;rsquo;t use any libraries or frameworks or anything, because back then there was nothing&amp;hellip; No github, no stackoverflow, no internet&amp;hellip; you had to do it all by hand.</description>
     </item>
     
     <item>
       <title>1990 - Digital Mugician (Amiga)</title>
-      <link>https:/rhinoid.github.io/nostalgia/mugician/</link>
+      <link>https://rhinoid.github.io/nostalgia/mugician/</link>
       <pubDate>Mon, 01 Jan 1990 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/mugician/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/mugician/</guid>
       <description>The Digital Mugician is a music sequencer, synthesizer and sampler for the Commodore Amiga. Besided being able to make music with it, it also came with a separate &amp;lsquo;replayroutine&amp;rsquo; which someone could integrate in their app or game, and that way have some music in it. We ourselves used it for our game &amp;lsquo;Hoi&amp;rsquo; which was released 1 year later.
 The music editor was our answer to the upcoming &amp;rsquo;tracker&amp;rsquo; genre, only at that time there were not so many yet.</description>
     </item>
     
     <item>
       <title>1989 - SIDMon (Amiga)</title>
-      <link>https:/rhinoid.github.io/nostalgia/sidmon/</link>
+      <link>https://rhinoid.github.io/nostalgia/sidmon/</link>
       <pubDate>Sun, 01 Jan 1989 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/sidmon/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/sidmon/</guid>
       <description>The first tracker featuring &amp;lsquo;synthesis&amp;rsquo; for the Amiga. Very rough app, which didn&amp;rsquo;t have user friendliness high in it&amp;rsquo;s aims. With it you could create very tiny (filesize) tracks with synthetic instruments which resembled the very disntinctive sounds of the C64 SID chip. The program was based on the &amp;lsquo;Sound monitor&amp;rsquo; programmed by Chris Hülsbeck. Hence the name SIDMon.
 The app features waveform sound synthesis, sample playback (although it only had a few hardcoded samples), and a sequencer.</description>
     </item>
     
     <item>
       <title>1988 - Ball Raider II (Amiga)</title>
-      <link>https:/rhinoid.github.io/nostalgia/ballraiderii/</link>
+      <link>https://rhinoid.github.io/nostalgia/ballraiderii/</link>
       <pubDate>Fri, 01 Jan 1988 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/ballraiderii/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/ballraiderii/</guid>
       <description>One year after making our first &amp;lsquo;arkanoid clone&amp;rsquo; called Bouncer, we got asked by a US company to make a sequel for their game Ball Raider. With what we learned from Bouncer we thought we could improve quite a lot. Especially after playing Amegas we got a lot of inspiration how to do it a lot better. This all resulted in the game Ball Raider II which actually still looks decent and for the time was not bad.</description>
     </item>
     
     <item>
       <title>1988 - Iceball (Amiga)</title>
-      <link>https:/rhinoid.github.io/nostalgia/iceball/</link>
+      <link>https://rhinoid.github.io/nostalgia/iceball/</link>
       <pubDate>Fri, 01 Jan 1988 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/iceball/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/iceball/</guid>
       <description>The second game I&amp;rsquo;ve ever made was called Iceball, and it was made for the Amiga by the people who made the previous game &amp;lsquo;Bouncer&amp;rsquo;: Thijs van Rijswijk helped programming and another friend of mine Pieter Opdam made the graphics. Although the game was not as bad as Bouncer, it was also not very good. Still we learned a lot and it was the first of the many platform games I would work on.</description>
     </item>
     
     <item>
       <title>1987 - Bouncer (Amiga)</title>
-      <link>https:/rhinoid.github.io/nostalgia/bouncer/</link>
+      <link>https://rhinoid.github.io/nostalgia/bouncer/</link>
       <pubDate>Thu, 01 Jan 1987 15:25:55 +0200</pubDate>
       
-      <guid>https:/rhinoid.github.io/nostalgia/bouncer/</guid>
+      <guid>https://rhinoid.github.io/nostalgia/bouncer/</guid>
       <description>The first game I&amp;rsquo;ve ever made was called Bouncer, and it was made for the Amiga. I made it together with a friend called Thijs van Rijswijk and another friend of mine Pieter Opdam made the graphics. Let&amp;rsquo;s be hounest, it was a pretty poor game, but at the time we were quite happy with it. As with everything back in those days it was all done in 68000 assembly.</description>
     </item>
     
