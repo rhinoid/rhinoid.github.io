@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="Reinier van Vliet">
+    <meta name="description" content="https:/rhinoid.github.io/">
+    <meta name="keywords" content="blog,developer,personal">
+
+    <meta property="og:site_name" content="Reinier van Vliet - portfolio">
+    <meta property="og:title" content="
+  1993 - Planet groove demo (Amiga) - Reinier van Vliet - portfolio
+">
+    <meta property="og:description" content="1993 - Planet groove demo (Amiga)">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https:/rhinoid.github.io/nostalgia/planetgroove/">
+    <meta property="og:image" content="https:/rhinoid.github.io/&lt;no value&gt;">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="https:/rhinoid.github.io/nostalgia/planetgroove/">
+    <meta name="twitter:image" content="https:/rhinoid.github.io/&lt;no value&gt;">
+
+    <base href="https:/rhinoid.github.io/nostalgia/planetgroove/">
+    <title>
+  1993 - Planet groove demo (Amiga) - Reinier van Vliet - portfolio
+</title>
+
+    <link rel="canonical" href="https:/rhinoid.github.io/nostalgia/planetgroove/">
+    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+    
+    <link  rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira+Mono:400,700">
+    <link rel="stylesheet" href="/rhinoid.github.io/css/normalize.min.css">
+    <link rel="stylesheet" href="/rhinoid.github.io/css/style.min.css">
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="/rhinoid.github.io/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/rhinoid.github.io/images/favicon-16x16.png" sizes="16x16">
+
+    
+      <link rel="alternate" href="https:/rhinoid.github.io/index.xml" type="application/rss+xml" title="Reinier van Vliet - portfolio">
+      <link href="https:/rhinoid.github.io/index.xml" rel="feed" type="application/rss+xml" title="Reinier van Vliet - portfolio" />
+    
+
+    <meta name="generator" content="Hugo 0.105.0">
+  </head>
+
+  <body class="">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="/">Reinier van Vliet - portfolio</a>
+    <input type="checkbox" id="menu-control"/>
+    <label class="menu-mobile  float-right " for="menu-control">
+      <span class="btn-mobile  float-right ">&#9776;</span>
+      <ul class="navigation-list">
+        
+          
+            <li class="navigation-item  align-center ">
+              <a class="navigation-link" href="https:/rhinoid.github.io/about">About</a>
+            </li>
+          
+            <li class="navigation-item  align-center ">
+              <a class="navigation-link" href="https:/rhinoid.github.io/current">Current</a>
+            </li>
+          
+            <li class="navigation-item  align-center ">
+              <a class="navigation-link" href="https:/rhinoid.github.io/nostalgia">Nostalgia</a>
+            </li>
+          
+        
+        
+      </ul>
+    </label>
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container page">
+  <article>
+    <header>
+      <h1>1993 - Planet groove demo (Amiga)</h1>
+    </header>
+
+    <p><img src="/static/planetgroove/planetgroove.png" alt="Title image"></p>
+<p>The planet groove demo was made to show the potential of the new AGA chipset which was released month prior in the Amiga 4000 and Amiga 1200. No one still had any documentation on how the hardware worked. By methodically going through all the various hardware registers I was able to figure out how to trigger the special new video modes. With that knowledge we released a text file on the BBS with everything we found out. Meanwhile we also had the idea to be the first team to release a demo using the special AGA hardware.</p>
+<p>Like most other production, I made all the code (and like always all in assembly), music was done by Ramon Braumuller and all graphics were made by <a href="http://www.metinseven.com">Metin seven</a></p>
+<p>Planet Groove is the result of stringing together some stuff we already had made, and some new stuff, all enchanced with the new AGA capabilities. Most important new capability was the amount of colors which one could use. That used to be 32, and now it was 256. In the final sequence where the 2 pictures crossfaded between one another, we used 2 16 color images (so using 4 bitplanes each), and combining them to 1 256 (8 bitplanes) image. Then by making the color palette in such a way that any combination of the 2 images, the correct &lsquo;alpha&rsquo; color from the palette would be shown. Then we only needed to scroll the even and odd bitplanes in opposite directions, and recalculate the palette for the various alpha values, and the final effect was born.</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/ce3w2yDofz8" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>The demo disk image and the music as a separate mod can be downloaded on the <a href="http://janeway.exotica.org.uk/release.php?id=9393">exotica site</a></p>
+<p><img src="/static/planetgroove/planetgroove2.jpg" alt="Some screenshot from the demo planet groove"></p>
+
+  </article>
+</section>
+
+
+      </div>
+      
+        <footer class="footer">
+  <section class="container">
+    
+      <div class="sns-shares sp-sns-shares">
+        
+        
+        
+        
+        
+      </div>
+    
+    
+      <p>Big ideas for small devices.</p>
+    
+     © 2018    ·  Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="https://github.com/naro143/hugo-coder-portfolio">CoderPortfolio</a>. 
+
+  </section>
+</footer>
+<div class="fixed-bar">
+  <section class="container">
+    
+      <p id="privateTriggerText">Do you want to know me more private?→<a id="privateTrigger">Click!</a></p>
+    
+    
+      <div class="sns-shares pc-sns-shares">
+        
+        
+        
+        
+        
+      </div>
+    
+  </section>
+</div>
+
+      
+    </main>
+
+    
+
+  <script src="/rhinoid.github.io/js/app.js"></script>
+  
+  <script>
+  (function($) {
+    $(function() {
+      $('#privateTrigger').on('click', function() {
+        $('.private').slideToggle();
+        $('#privateTriggerText').text("Thank You! Please share it if you like it→");
+      });
+    });
+   })(jQuery);
+  </script>
+  
+  </body>
+</html>

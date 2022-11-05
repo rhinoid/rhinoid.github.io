@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current on Reinier van Vliet - portfolio</title>
+    <link>https:/rhinoid.github.io/current/</link>
+    <description>Recent content in Current on Reinier van Vliet - portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jul 2018 15:25:55 +0200</lastBuildDate><atom:link href="https:/rhinoid.github.io/current/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2018 - 2018 Yolt (iOS)</title>
+      <link>https:/rhinoid.github.io/current/yolt2/</link>
+      <pubDate>Sun, 01 Jul 2018 15:25:55 +0200</pubDate>
+      
+      <guid>https:/rhinoid.github.io/current/yolt2/</guid>
+      <description>Yolt is an app for iOS and Android which let&amp;rsquo;s you get on top of your expenses. It can aggregate all your bank accounts into one overview, and give great insights through the magic of datascience.
+After working at Yolt initially for 1.5 years, I stopped working there right after Yolt successfully launched in the UK. During the small break I did some other freelance projects. After about 10 months I came back to join in the &amp;lsquo;scale-up phase&amp;rsquo;, where I&amp;rsquo;m now the &amp;lsquo;iOS Chapter lead&amp;rsquo; with 6 iOS devs in 5 teams.</description>
+    </item>
+    
+    <item>
+      <title>2018 - 2018 Volksbank (iOS)</title>
+      <link>https:/rhinoid.github.io/current/volksbank/</link>
+      <pubDate>Wed, 07 Mar 2018 15:25:55 +0200</pubDate>
+      
+      <guid>https:/rhinoid.github.io/current/volksbank/</guid>
+      <description>I worked a few months on the birth of the &amp;lsquo;sl!m app&amp;rsquo; from the Volksbank in a small dedicated team. Sl!m is an app where they want to experiment with new innovative features for their banking product, without immediatly giving it to their entire user base. It&amp;rsquo;s like a playground for new ideas which everyone can already try.
+In the short time I was there I worked with the team on giving insight in to the payments of users and building a conversational interface (So like whatsapp, but then scripted(where the scripts where frontend hosted))</description>
+    </item>
+    
+    <item>
+      <title>2017 - 2017 Rabo bankieren app - Rabobank (iOS)</title>
+      <link>https:/rhinoid.github.io/current/rabobank/</link>
+      <pubDate>Tue, 01 Aug 2017 15:25:55 +0200</pubDate>
+      
+      <guid>https:/rhinoid.github.io/current/rabobank/</guid>
+      <description>I worked a few months at the Rabobank on their mobile bankieren app. Their app is mostly a wep app, but they wanted the most important flows to be native. Worked for a few months on the payment flow until business decided to follow a different strategy and do less native again.</description>
+    </item>
+    
+    <item>
+      <title>2016 - 2016 BLE secure beacon library - Clippon (iOS)</title>
+      <link>https:/rhinoid.github.io/current/clippon/</link>
+      <pubDate>Tue, 01 Mar 2016 15:25:55 +0200</pubDate>
+      
+      <guid>https:/rhinoid.github.io/current/clippon/</guid>
+      <description>Clippon was a start-up focusing on secure beacons for various applications like vending machines, fleet control, etc.
+Created a Bluetooth Low Energy library for them to aid app developers to connect to Clippon beacons in a secure way and optionally perform a transaction.</description>
+    </item>
+    
+    <item>
+      <title>2016 - 2017 Yolt (iOS)</title>
+      <link>https:/rhinoid.github.io/current/yolt/</link>
+      <pubDate>Mon, 01 Feb 2016 15:25:55 +0200</pubDate>
+      
+      <guid>https:/rhinoid.github.io/current/yolt/</guid>
+      <description>Yolt is an app for iOS and Android which let&amp;rsquo;s you get on top of your expenses. It can aggregate all your bank accounts into one overview, and give great insights through the magic of datascience. I&amp;rsquo;ve worked on the iOS app from the start together with another developer Stijn Spijker. We set up the base architecture, the code structure, code separation, tests, CI and everything up to the first succesful launch in the UK.</description>
+    </item>
+    
+    <item>
+      <title>2013 - 2015 Mobiel bankieren app - ING (iOS)</title>
+      <link>https:/rhinoid.github.io/current/ing/</link>
+      <pubDate>Tue, 01 Jan 2013 15:25:55 +0200</pubDate>
+      
+      <guid>https:/rhinoid.github.io/current/ing/</guid>
+      <description>A few months before the ING mobiel bankieren app was launched I joined them initially to work on the iPad version. I stayed a tiny bit longer, and worked a lot of parts of the app. Mobile bankieren team was about 5 or 6 iOS developers at the time. I believe they now have 9 or 10 teams, also in various countries.
+Had a great time there. Learned a lot.</description>
+    </item>
+    
+    <item>
+      <title>2012 - 2012 SMPP SMS Smart Proxy Server - MADS (Golang)</title>
+      <link>https:/rhinoid.github.io/current/mads2/</link>
+      <pubDate>Sun, 01 Jan 2012 15:25:55 +0200</pubDate>
+      
+      <guid>https:/rhinoid.github.io/current/mads2/</guid>
+      <description>MADS is an Amsterdam based advertising company which in 2011 handled all mobile ad traffic for companies like Vodafone in a few big countries.
+For a peculiar setup of a Mobile operator in South America, the current SMS server didn&amp;rsquo;t match their odd specifications, and it needed to handle big campaigns while communicating with big latencies. To overcome this I made a proxy server in Go, which would sit between the MADS sms server and the system in South america.</description>
+    </item>
+    
+    <item>
+      <title>2011 - 2018 Various</title>
+      <link>https:/rhinoid.github.io/current/various/</link>
+      <pubDate>Sat, 01 Jan 2011 15:25:55 +0200</pubDate>
+      
+      <guid>https:/rhinoid.github.io/current/various/</guid>
+      <description>Tijdreis Domplein: Historical iPad app about the Dom in Utrecht with AR component. (iOS)
+Fixing Nuon mobile energy app (created by 3rd party and full of bugs) (iOS)
+Vogala app which enables you to listen to old dutch texts (iOS)
+Vision Augmenten reality app for a staircase elevator producer (iOS)
+Coalitie kiezer app for the dutch election of 2012 (iOS)
+VideoDeals: App for an online shop which uses videos to sell their products (IOS)</description>
+    </item>
+    
+    <item>
+      <title>2007 - 2011 Messaging platform - MADS (.NET)</title>
+      <link>https:/rhinoid.github.io/current/mads/</link>
+      <pubDate>Mon, 01 Jan 2007 15:25:55 +0200</pubDate>
+      
+      <guid>https:/rhinoid.github.io/current/mads/</guid>
+      <description>MADS is an Amsterdam based advertising company which in 2011 handled all mobile ad traffic for companies like Vodafone in a few big countries.
+Senior programmer for MADS (Mobile advertising company) of which I was also part owner. I started out by expanding on the traditional advertisment platform and see if we could also send out SMS&amp;rsquo;s. This grew into a full- fledged messaging gateway capable of delivering high-speed SMS and MMS messages (Via SMMP and MM7) to messaging gateways at operators all over the world (among others: 5 Vodafone operators, 2 Tele2 operator and 1 Nawras were using it).</description>
+    </item>
+    
+  </channel>
+</rss>
