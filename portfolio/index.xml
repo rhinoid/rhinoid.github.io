@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>portfolio on Reinier van Vliet - portfolio</title>
+    <link>https://www.proofofconcept.nl/portfolio/</link>
+    <description>Recent content in portfolio on Reinier van Vliet - portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Feb 2022 15:25:55 +0200</lastBuildDate><atom:link href="https://www.proofofconcept.nl/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2016 - 2022 Yolt (iOS/Android/API)</title>
+      <link>https://www.proofofconcept.nl/portfolio/yolt/</link>
+      <pubDate>Tue, 01 Feb 2022 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/yolt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2018 - 2018 Volksbank (iOS)</title>
+      <link>https://www.proofofconcept.nl/portfolio/volksbank/</link>
+      <pubDate>Wed, 07 Mar 2018 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/volksbank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2017 - 2017 Rabo bankieren app - Rabobank (iOS)</title>
+      <link>https://www.proofofconcept.nl/portfolio/rabobank/</link>
+      <pubDate>Tue, 01 Aug 2017 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/rabobank/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2016 - 2016 BLE secure beacon library - Clippon (iOS)</title>
+      <link>https://www.proofofconcept.nl/portfolio/clippon/</link>
+      <pubDate>Tue, 01 Mar 2016 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/clippon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2014 - 2014 Domplein Utrecht (iOS)</title>
+      <link>https://www.proofofconcept.nl/portfolio/domplein/</link>
+      <pubDate>Wed, 01 Jan 2014 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/domplein/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2013 - 2015 Mobiel bankieren app - ING (iOS)</title>
+      <link>https://www.proofofconcept.nl/portfolio/ing/</link>
+      <pubDate>Tue, 01 Jan 2013 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/ing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2012 - 2012 SMPP SMS Smart Proxy Server - MADS (Golang)</title>
+      <link>https://www.proofofconcept.nl/portfolio/mads2/</link>
+      <pubDate>Sun, 01 Jan 2012 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/mads2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2011 - 2018 Various</title>
+      <link>https://www.proofofconcept.nl/portfolio/various/</link>
+      <pubDate>Sat, 01 Jan 2011 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/various/</guid>
+      <description>Fixing Nuon mobile energy app (created by 3rd party and full of bugs) (iOS)
+Vogala app which enables you to listen to old dutch texts (iOS)
+Vision Augmenten reality app for a staircase elevator producer (iOS)
+Coalitie kiezer app for the dutch election of 2012 (iOS)
+VideoDeals: App for an online shop which used videos to sell their products (IOS)</description>
+    </item>
+    
+    <item>
+      <title>2007 - 2011 Messaging platform - MADS (.NET)</title>
+      <link>https://www.proofofconcept.nl/portfolio/mads/</link>
+      <pubDate>Mon, 01 Jan 2007 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/mads/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2007 - Yogames (J2ME/PocketPC/Mobile)</title>
+      <link>https://www.proofofconcept.nl/portfolio/yogames/</link>
+      <pubDate>Mon, 01 Jan 2007 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/yogames/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2005 - Adidas (J2me/Mobile/Ad)</title>
+      <link>https://www.proofofconcept.nl/portfolio/adidas/</link>
+      <pubDate>Sat, 01 Jan 2005 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/adidas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2005 - Dan Parks decathlon (J2me/Mobile)</title>
+      <link>https://www.proofofconcept.nl/portfolio/danparks/</link>
+      <pubDate>Sat, 01 Jan 2005 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/danparks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2004 - 3D Software renderer</title>
+      <link>https://www.proofofconcept.nl/portfolio/rasterizer/</link>
+      <pubDate>Thu, 01 Jan 2004 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/rasterizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2004 - Yin Hung (Symbian/Mobile)</title>
+      <link>https://www.proofofconcept.nl/portfolio/yinhung/</link>
+      <pubDate>Thu, 01 Jan 2004 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/yinhung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2003 - Breakthru (Symbian/Mobile)</title>
+      <link>https://www.proofofconcept.nl/portfolio/breakthru/</link>
+      <pubDate>Fri, 01 Aug 2003 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/breakthru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2003 - Syntrax (PocketPC, Symbian, Mobile)</title>
+      <link>https://www.proofofconcept.nl/portfolio/syntrax/</link>
+      <pubDate>Sun, 01 Jun 2003 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/syntrax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>180 Darts</title>
+      <link>https://www.proofofconcept.nl/portfolio/180darts/</link>
+      <pubDate>Wed, 01 Jan 2003 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/180darts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2002 - Black belt challenge (Gameboy Advance)</title>
+      <link>https://www.proofofconcept.nl/portfolio/blackbelt/</link>
+      <pubDate>Fri, 18 Oct 2002 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/blackbelt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2002 - Invader (Gameboy Advance)</title>
+      <link>https://www.proofofconcept.nl/portfolio/invader/</link>
+      <pubDate>Tue, 27 Aug 2002 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/invader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2000 - Jaytrax (PC)</title>
+      <link>https://www.proofofconcept.nl/portfolio/jaytrax/</link>
+      <pubDate>Sat, 01 Jan 2000 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/jaytrax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1999 - Tesa powergame (PC/Ad)</title>
+      <link>https://www.proofofconcept.nl/portfolio/tesapowergame/</link>
+      <pubDate>Fri, 01 Jan 1999 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/tesapowergame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1998 - Brand slakkenrace (PC/Ad)</title>
+      <link>https://www.proofofconcept.nl/portfolio/slakkenrace/</link>
+      <pubDate>Thu, 01 Jan 1998 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/slakkenrace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1997 - Moon Child (PC)</title>
+      <link>https://www.proofofconcept.nl/portfolio/moonchild/</link>
+      <pubDate>Wed, 01 Jan 1997 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/moonchild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1994 - Clockwiser (Amiga)</title>
+      <link>https://www.proofofconcept.nl/portfolio/clockwiser/</link>
+      <pubDate>Sat, 01 Jan 1994 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/clockwiser/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1994 - Hoi saga III demo (Amiga)</title>
+      <link>https://www.proofofconcept.nl/portfolio/hoisagaiii/</link>
+      <pubDate>Sat, 01 Jan 1994 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/hoisagaiii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1993 - Mindwarp demo (Amiga)</title>
+      <link>https://www.proofofconcept.nl/portfolio/mindwarp/</link>
+      <pubDate>Tue, 01 Jun 1993 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/mindwarp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1993 - Planet groove demo (Amiga)</title>
+      <link>https://www.proofofconcept.nl/portfolio/planetgroove/</link>
+      <pubDate>Mon, 01 Mar 1993 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/planetgroove/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1992 - Peanut butter power game (TV/Ad)</title>
+      <link>https://www.proofofconcept.nl/portfolio/peanutbutterpowergame/</link>
+      <pubDate>Wed, 01 Jan 1992 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/peanutbutterpowergame/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1991 - Hoi (Amiga)</title>
+      <link>https://www.proofofconcept.nl/portfolio/hoi/</link>
+      <pubDate>Tue, 01 Jan 1991 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/hoi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1990 - Digital Mugician (Amiga)</title>
+      <link>https://www.proofofconcept.nl/portfolio/mugician/</link>
+      <pubDate>Mon, 01 Jan 1990 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/mugician/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1989 - SIDMon (Amiga)</title>
+      <link>https://www.proofofconcept.nl/portfolio/sidmon/</link>
+      <pubDate>Sun, 01 Jan 1989 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/sidmon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1988 - Ball Raider II (Amiga)</title>
+      <link>https://www.proofofconcept.nl/portfolio/ballraiderii/</link>
+      <pubDate>Fri, 01 Jan 1988 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/ballraiderii/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1988 - Iceball (Amiga)</title>
+      <link>https://www.proofofconcept.nl/portfolio/iceball/</link>
+      <pubDate>Fri, 01 Jan 1988 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/iceball/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>1987 - Bouncer (Amiga)</title>
+      <link>https://www.proofofconcept.nl/portfolio/bouncer/</link>
+      <pubDate>Thu, 01 Jan 1987 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/bouncer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
