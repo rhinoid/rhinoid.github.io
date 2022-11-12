@@ -94,7 +94,120 @@
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>2003 - Syntrax (PocketPC, Symbian, Mobile)</h1>
-         <p>When seeing the PocketPC, my imagination ran wild. Who cool would it be if you could make your own music while commuting in the train? Tahts when I thought I needed to compile Jaytrax for the PocketPC, and just change the UI. Syntrax featured sound synthesis, a sequencer, a sampler all while being severly constraint by the hardware. Even though the PocketPC had an Arm processor, it didn&rsquo;t have good floating point support and the clockspeed was very low. So all waveform calculations were done in fixed-point, in tight loops just to make it performant and usable.</p>
+         <p>When seeing the PocketPC, my imagination ran wild. How cool would it be if you could make your own music while commuting in the train? Thats when I thought I needed to compile Jaytrax for the PocketPC, and just change the UI. Syntrax featured sound synthesis, a sequencer, a sampler all while being severely constraint by the hardware. Even though the PocketPC had an Arm processor, it didn&rsquo;t have usable floating point support and the clockspeed was very low. So all waveform calculations were done in tight fixed-point loops just to make it performant and usable.</p>
+
+
+  <canvas class="emscripten" id="canvas" width="640", height="32" oncontextmenu="event.preventDefault()" tabindex=-1></canvas>
+  <script type='text/javascript'>
+            var Module = {
+                preRun: [],
+                postRun: [],
+                print: [],
+                printErr: [],
+                canvas: (function () {
+                    return document.getElementById('canvas');
+                })()
+            };
+        </script>
+        <script async type="text/javascript" src="/static/syntrax/template.js"></script>
+
+
+        <script type="text/javascript">
+
+        // Wait for the page to load first
+        function jsfunction(song, subsong) {
+        	Module._changeSong(song, subsong); 
+//           	var result = Module.ccall('changeSong', // name of C function
+//  				'null', // return type
+//  						['number'], // argument types
+//  						[song]); // arguments
+            return false;
+          }
+    </script>
+    <br>
+    I've ported the player to webassembly so it can be played in the browser. Here is a selection of tracks which can be listened to:
+    <br><br>
+    <table style="width:100%;padding:10px;">
+  		<tr>
+    		<th>Tracks by Stefan Alfrink:</th>
+		    <th>Tracks by me:</th>
+		</tr>
+		<tr>
+			<td><a onclick="jsfunction(0,0)" href="javascript:void(0);">090301</a></td>
+			<td><a onclick="jsfunction(15,0)" href="javascript:void(0);">Disturbed</a></td>
+		</tr>
+		<tr>
+			<td><a onclick="jsfunction(1,0)" href="javascript:void(0);">Difzee</a></td>
+			<td><a onclick="jsfunction(26,0)" href="javascript:void(0);">Kingtut</a></td>
+		</tr>
+		<tr>
+			<td><a onclick="jsfunction(4,0)" href="javascript:void(0);">It hides in thunder</a></td>
+			<td><a onclick="jsfunction(31,0)" href="javascript:void(0);">Waterballet</a></td>
+		</tr>
+		<tr>
+			<td><a onclick="jsfunction(7,0)" href="javascript:void(0);">Stfmaan6</a></td>
+			<td><a onclick="jsfunction(2,0)" href="javascript:void(0);">Dreamer</a></td>
+		</tr>
+		<tr>
+			<td><a onclick="jsfunction(9,0)" href="javascript:void(0);">Wodaz</a></td>
+			<td><a onclick="jsfunction(3,0)" href="javascript:void(0);">Filtastic</a></td>
+		</tr>
+		<tr>
+			<td><a onclick="jsfunction(10,0)" href="javascript:void(0);">alw_one</a></td>
+			<td><a onclick="jsfunction(8,0)" href="javascript:void(0);">Technogo</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a onclick="jsfunction(23,0)" href="javascript:void(0);">Hakman</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Maximus Level 1 <a onclick="jsfunction(27,0)" href="javascript:void(0);">(1) </a><a onclick="jsfunction(27,1)" href="javascript:void(0);">(2) </a><a onclick="jsfunction(27,2)" href="javascript:void(0);">(3) </a> </td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Maximus Level 2 <a onclick="jsfunction(28,0)" href="javascript:void(0);">(1) </a><a onclick="jsfunction(28,1)" href="javascript:void(0);">(2) </a><a onclick="jsfunction(28,2)" href="javascript:void(0);">(3) </a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Maximus Level 3 <a onclick="jsfunction(5,0)" href="javascript:void(0);">(1) </a><a onclick="jsfunction(5,1)" href="javascript:void(0);">(2) </a><a onclick="jsfunction(5,2)" href="javascript:void(0);">(3) </a><a onclick="jsfunction(5,3)" href="javascript:void(0);">(4) </a> </td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Bump 'n' Burn <a onclick="jsfunction(12,0)" href="javascript:void(0);">(1) </a><a onclick="jsfunction(12,1)" href="javascript:void(0);">(2) </a><a onclick="jsfunction(12,2)" href="javascript:void(0);">(3) </a><a onclick="jsfunction(12,3)" href="javascript:void(0);">(4) </a><a onclick="jsfunction(12,4)" href="javascript:void(0);">(5) </a><a onclick="jsfunction(12,5)" href="javascript:void(0);">(6) </a><a onclick="jsfunction(12,6)" href="javascript:void(0);">(7) </a><a onclick="jsfunction(12,7)" href="javascript:void(0);">(8) </a> </td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a onclick="jsfunction(6,0)" href="javascript:void(0);">Popcorn</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a onclick="jsfunction(24,0)" href="javascript:void(0);">Hunkefunk</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a onclick="jsfunction(14,0)" href="javascript:void(0);">Classic</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a onclick="jsfunction(21,0)" href="javascript:void(0);">Doodmars</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a onclick="jsfunction(22,0)" href="javascript:void(0);">Hakke</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a onclick="jsfunction(25,0)" href="javascript:void(0);">Jbells</a></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td><a onclick="jsfunction(11,0)" href="javascript:void(0);">Aso</a></td>
+		</tr>
+	</table>
+      <br>      
+
+
 <p>Syntrax won a few awards. Best software for PocketPC and best software for UIQ (A mobile phone OS from SonyEricsson back when iOS and Android were not invented yet)</p>
 <table>
 <thead>
