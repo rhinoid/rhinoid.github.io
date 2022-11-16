@@ -95,6 +95,82 @@
       <div class="content-column-content">
          <h1>1989 - SIDMon (Amiga)</h1>
          <p>The first tracker featuring &lsquo;synthesis&rsquo; for the Amiga. Very rough app, which didn&rsquo;t have user friendliness high in it&rsquo;s aims. With it you could create very tiny (filesize) tracks with synthetic instruments which resembled the very distinctive sounds of the C64 SID chip. The term for these tracks nowadays would be &lsquo;chiptunes&rsquo; The program was based on the <a href="https://de.wikipedia.org/wiki/Soundmonitor" target="_blank">Sound monitor</a> programmed by Chris Hülsbeck. Hence the name SIDMon.</p>
+<p><a href="https://github.com/rofl0r/c-flod" target="_blank">Flod</a> is an open-source project build by Christian Corti and features a lot of Amiga players converted to C and even emulates the Amiga sound hardware. Very cool. I&rsquo;ve ported/adapted/hacked the FLOD player so it plays with the same minimal webgui as <a href="/portfolio/syntrax">Syntrax</a> in the browser.</p>
+
+
+  <canvas class="emscripten" id="canvas" width="640", height="32" oncontextmenu="event.preventDefault()" tabindex=-1></canvas>
+  <script type='text/javascript'>
+            var Module = {
+                preRun: [],
+                postRun: [],
+                print: [],
+                printErr: [],
+                canvas: (function () {
+                    return document.getElementById('canvas');
+                })()
+            };
+        </script>
+        <script async type="text/javascript" src="/static/sidmon/template.js"></script>
+
+
+        <script type="text/javascript">
+
+        // Wait for the page to load first
+        function jsfunction(song, subsong) {
+        	Module._changeSong(song, subsong); 
+//           	var result = Module.ccall('changeSong', // name of C function
+//  				'null', // return type
+//  						['number'], // argument types
+//  						[song]); // arguments
+            return false;
+          }
+    </script>
+    <br>
+
+     Here is a selection of tracks which can be listened to:
+    <br><br>
+    <table style="width:100%;padding:10px;">
+  		<tr>
+    		<th>Tracks by Ramon Braumuller:</th>
+		    <th>Tracks by me:</th>
+		</tr>
+		<tr>
+			<td>Venomwing (Amiga game) <a onclick="jsfunction(98,0)" href="javascript:void(0);">Intro </a> <a onclick="jsfunction(99,0)" href="javascript:void(0);">Title </a> <a onclick="jsfunction(97,0)" href="javascript:void(0);">End </a> </td>
+			<td><a onclick="jsfunction(95,0)" href="javascript:void(0);">Sad story </a></a></td>
+		</tr>
+		<tr>
+			<td><a onclick="jsfunction(89,0)" href="javascript:void(0);">Army game </a> </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td><a onclick="jsfunction(90,0)" href="javascript:void(0);">Ear demo A </a> </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td><a onclick="jsfunction(91,0)" href="javascript:void(0);">Ear demo B </a> </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td><a onclick="jsfunction(92,0)" href="javascript:void(0);">Ode to Tim Follin </a> </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td>Ragnov (A game prototype)<a onclick="jsfunction(93,0)" href="javascript:void(0);">Title </a></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td><a onclick="jsfunction(94,0)" href="javascript:void(0);">SIDmon Intro </a> </td>
+			<td></td>
+		</tr>
+		<tr>
+			<td><a onclick="jsfunction(96,0)" href="javascript:void(0);">Sliding away </a> </td>
+			<td></td>
+		</tr>
+
+	</table>
+      <br>      
+
+
 <p>The app features waveform sound synthesis, sample playback (although it only had a few hardcoded samples), and a sequencer.</p>
 <p>The app first saw the light of day in 1987, but it wasn&rsquo;t until 1989 that we published it through Turtle Byte, a german publisher which turned out to be very untrustworthy (as was the norm for game publishers back in the day).</p>
 <table>
