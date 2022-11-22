@@ -142,9 +142,9 @@
         <img style="width:100%" src="/static/hoi/screenshot1.png" 
             ontouchstart="touched=true"
             onclick="
-            vAmigaWeb_player.samesite_file={
-                url:'https://www.proofofconcept.nl/static/hoi/hoi.zip',name:'hoi'
-            };
+//            vAmigaWeb_player.samesite_file={
+//                url:'https://www.proofofconcept.nl/static/hoi/hoi.zip',name:'hoi'
+//            };
 //            vAmigaWeb_player.vAmigaWeb_url='./Emulator';  //the emulator files are in the same folder as the run.html
             let touch=(typeof touched!='undefined')?touched:false;touched=false;
             let config={
@@ -155,7 +155,7 @@
                 border:0.3,
                 port2:true,
 		display:'standard'
-//		url:'https://www.proofofconcept.nl/static/hoi/hoi.zip'
+		url:'https://www.proofofconcept.nl/static/hoi/hoi.zip'
             }; 
             vAmigaWeb_player.load(this,encodeURIComponent(JSON.stringify(config)));
             return false;"		
