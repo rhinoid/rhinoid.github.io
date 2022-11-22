@@ -95,6 +95,7 @@
       <div class="content-column-content">
          <h1>1991 - Hoi (Amiga)</h1>
          <p>Hoi is an Amiga game which I made together with 2 friends. Ramon Braumuller did all the music and sound-fx, <a href="https://www.metinseven.nl/" target="_blank">Metin Seven</a> was responsible for all the graphics, and I glued everything together with code. The game was entirely made in 68000 assembly (which was the only route to go to get a decent framerate back then). We didn&rsquo;t use any libraries or frameworks or anything, because back then there was nothing&hellip; No github, no stackoverflow, no internet&hellip; you had to do it all by hand. Even simple things you now take for granted like &rsquo;list structures&rsquo;, sorting data, playing music&hellip; everything had to be hand coded. The game even had a level editor build in. You could pick tiles and draw the levels, and with the press of a key play it right away. A bit like Super Mario Maker, but a bit less feature rich.</p>
+<p>Underneath is an Amiga emulator which can run our game in the browser. Click on the image to start. Then choose &lsquo;hoi1.adf&rsquo; as the first disk. Wait for the game to start and click on the bottom grey bar for the amiga to accept key input. Use the cursor keys and space to control the game. Select &lsquo;PAL&rsquo; and if you want to see the intro sequence. At some point the game will ask you to swap disks. Then click on the small &lsquo;folder icon&rsquo; on the bottom grey bar and select hoi2.adf. For modern gamers: this game is brutally hard! Be warned.
 
 
 <!-- vAmigaWeb-block start -->
@@ -139,7 +140,7 @@
 <br>
 <div  style="display: flex;align-items: center;justify-content: center;">
     <div id="container">
-        <img style="width:100%" src="/static/hoi/screenshot1.png" 
+        <img style="width:100%" src="/static/hoi/startscreen.png" 
             ontouchstart="touched=true"
             onclick="
 //            vAmigaWeb_player.samesite_file={
@@ -166,7 +167,7 @@
 <!-- vAmigaWeb-block end -->
 
 
-
+</p>
 <p>For the music my solution was to create a music editor with which Ramon could make his tunes. Since it was based on synthesis instead of samples, the music could be kept small, but still sound rich. The game used a maximum of around 500kb of memory. The first thing the game did when it started was to kill all interrupts, remove the entire operating system, and use as much memory as possible. It also used a custom written disk loader (comparable to a floppy device driver nowadays) which was done to thwart potential disk copy programs. It used a specific way of encoding the data on disk so that it could be loaded, but not written.</p>
 <p>More about the history and reception of the game can be read on it&rsquo;s <a href="https://en.wikipedia.org/wiki/Hoi_AGA" target="_blank">wikipedia page</a></p>
 
