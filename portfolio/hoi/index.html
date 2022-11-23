@@ -143,10 +143,6 @@
         <img style="width:100%" src="/static/hoi/startscreen.png" 
             ontouchstart="touched=true"
             onclick="
-//            vAmigaWeb_player.samesite_file={
-//                url:'https://www.proofofconcept.nl/static/hoi/hoi.zip',name:'hoi'
-//            };
-//            vAmigaWeb_player.vAmigaWeb_url='./Emulator';  //the emulator files are in the same folder as the run.html
             let touch=(typeof touched!='undefined')?touched:false;touched=false;
             let config={
                 touch:touch,
@@ -154,6 +150,7 @@
                 navbar:false,   //you can also enable this and disable the players toolbar (see styles section above)
                 wide:true,
                 border:0.3,
+                buttons: [{run: true, script: `wasm_set_warp(1);`}],
                 port2:true,
 				display:'standard',
 				url:'https://www.proofofconcept.nl/static/hoi/hoi.zip'
