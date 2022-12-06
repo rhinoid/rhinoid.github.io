@@ -150,7 +150,11 @@
                 navbar:false,   //you can also enable this and disable the players toolbar (see styles section above)
                 wide:true,
                 border:0.3,
-                buttons: [{run: true, script: `wasm_configure('DRIVE_SPEED', '8');`}],
+                buttons: [
+		     {run: true, script: `wasm_configure('DRIVE_SPEED', '8');`},
+		     {position:'bottom:0vh;left:0vw',title:'[s]ave',key:'s',script:`action('take_snapshot');`},
+		     {position:'bottom:0vh;right:0vw',title:'[l]oad',key:'l',script:`action('restore_last_snapshot');`}
+		],
                 port2:true,
 				display:'standard',
 				url:'https://www.proofofconcept.nl/static/hoi/hoi.zip'
