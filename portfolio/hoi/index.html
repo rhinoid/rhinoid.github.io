@@ -153,7 +153,7 @@
                 wide:true,
                 border:0.3,
                 buttons: [
-		     {run: true, script: `wasm_configure('DRIVE_SPEED', '8');`},
+		     {run: true, script: `wasm_configure('DRIVE_SPEED', '8');global_apptitle='hoi.zip';`},
 		     {position:'top:0vh;left:0vw',title:'[s]ave',key:'s',script:`action('take_snapshot');`},
 		     {position:'top:0vh;right:0vw',title:'[l]oad',key:'l',script:`action('restore_last_snapshot');`}
 		],
