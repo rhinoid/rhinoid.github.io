@@ -95,9 +95,7 @@
       <div class="content-column-content">
          <h1>1991 - Hoi (Amiga)</h1>
          <p>Hoi is an Amiga game which I made together with 2 friends. Ramon Braumuller did all the music and sound-fx, <a href="https://www.metinseven.nl/" target="_blank">Metin Seven</a> was responsible for all the graphics, and I glued everything together with code. The game was entirely made in 68000 assembly (which was the only route to go to get a decent framerate back then). We didn&rsquo;t use any libraries or frameworks or anything, because back then there was nothing&hellip; No github, no stackoverflow, no internet&hellip; you had to do it all by hand. Even simple things you now take for granted like &rsquo;list structures&rsquo;, sorting data, playing music&hellip; everything had to be hand coded. The game even had a level editor build in. You could pick tiles and draw the levels, and with the press of a key play it right away. A bit like Super Mario Maker, but a bit less feature rich.</p>
-<p>Underneath is an Amiga emulator <a href="https://vamigaweb.github.io/doc/index.html" target="_blank">vAmigaweb</a> which can run our game in the browser. Click on the image to start. Then choose &lsquo;hoi1.adf&rsquo; as the first disk. Wait for the game to start. Use the cursor keys and space to control the game. Select &lsquo;PAL&rsquo; and if you want to see the intro sequence. At some point the game will ask you to swap disks. Then click on the small &lsquo;folder icon&rsquo; on the bottom grey bar and select hoi2.adf. For modern gamers: this game is brutally hard! Be warned. 
-	      (Hint: vAmigaWeb adds savepoint support with [s]ave and [l]oad buttons, just drag them into the offscreen in case you don't need them. You can use this to continue your session at another day.)
-	      </p>
+<p>Underneath is an Amiga emulator <a href="https://vamigaweb.github.io/doc/index.html" target="_blank">vAmigaweb</a> which can run our game in the browser. Click on the image to start. Then choose &lsquo;hoi1.adf&rsquo; as the first disk. Wait for the game to start and click on the bottom grey bar for the amiga to accept key input. Use the cursor keys and space to control the game. Select &lsquo;PAL&rsquo; and if you want to see the intro sequence. At some point the game will ask you to swap disks. Then click on the small &lsquo;folder icon&rsquo; on the bottom grey bar and select hoi2.adf. For modern gamers: this game is brutally hard! Be warned.</p>
 
 
 <!-- vAmigaWeb-block start -->
@@ -153,16 +151,16 @@
                 wide:true,
                 border:0.3,
                 buttons: [
-		     {run: true, script: `wasm_configure('DRIVE_SPEED', '8');global_apptitle='hoi.zip';`},
-		     {position:'top:0vh;left:0vw',title:'[s]ave',key:'s',script:`action('take_snapshot');`},
-		     {position:'top:0vh;right:0vw',title:'[l]oad',key:'l',script:`action('restore_last_snapshot');`}
-		],
+             {run: true, script: `wasm_configure('DRIVE_SPEED', '8');global_apptitle='hoi.zip';`},
+             {position:'top:0vh;left:0vw',title:'[s]ave',key:'s',script:`action('take_snapshot');`},
+             {position:'top:0vh;right:0vw',title:'[l]oad',key:'l',script:`action('restore_last_snapshot');`}
+        ],
                 port2:true,
-				display:'standard',
-				url:'https://www.proofofconcept.nl/static/hoi/hoi.zip'
+                display:'standard',
+                url:'https://www.proofofconcept.nl/static/hoi/hoi.zip'
             }; 
             vAmigaWeb_player.load(this,encodeURIComponent(JSON.stringify(config)));
-            return false;"		
+            return false;"      
         />
     </div>
 </div>

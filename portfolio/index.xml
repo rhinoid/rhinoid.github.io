@@ -6,7 +6,16 @@
     <description>Recent content in portfolio on Reinier van Vliet - portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Feb 2022 15:25:55 +0200</lastBuildDate><atom:link href="https://www.proofofconcept.nl/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Dec 2022 15:25:55 +0200</lastBuildDate><atom:link href="https://www.proofofconcept.nl/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2022 - Cross Platform GUI (Web/Desktop/Mobile)</title>
+      <link>https://www.proofofconcept.nl/portfolio/crossplatformgui/</link>
+      <pubDate>Thu, 01 Dec 2022 15:25:55 +0200</pubDate>
+      
+      <guid>https://www.proofofconcept.nl/portfolio/crossplatformgui/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>2016 - 2022 Yolt (iOS/Android/API)</title>
       <link>https://www.proofofconcept.nl/portfolio/yolt/</link>
